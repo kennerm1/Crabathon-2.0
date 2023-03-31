@@ -23,4 +23,7 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/EndScreen.unity
     guid: ca3d4e3603ce464409e5ec9d9cb21da6
+  - enabled: 1
+    path: Assets/Scenes/Crab.unity
+    guid: 1969aae8a8e21a34ca60049a0e2c2a66
   m_configObjects: {}
